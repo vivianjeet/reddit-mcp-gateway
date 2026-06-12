@@ -32,4 +32,4 @@ Single-user instances make a few hundred read calls a day and a handful of write
 
 ## Contact
 
-Questions, or want your data removed manually: [your-email-here].
+Questions, or want your data removed manually: [vivianjeetsingh@gmail.com](mailto:vivianjeetsingh@gmail.com).
